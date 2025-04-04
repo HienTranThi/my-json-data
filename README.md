@@ -1,2 +1,35 @@
-# my-json-data
-API
+
+[
+  {
+    "id": 1,
+    "name": "Nguyễn Văn An",
+    "email": "nguyenvanan@gmail.com",
+    "phone": "0912345678",
+    "avatar": "https://example.com/avatars/an.jpg",
+    "dateOfBirth": "1990-05-15T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Trần Thị Bình",
+    "email": "tranthibinh@gmail.com",
+    "phone": "0923456789",
+    "avatar": null,
+    "dateOfBirth": "1985-11-20T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Lê Văn Cường",
+    "email": "levancuong@gmail.com",
+    "phone": "0934567890",
+    "avatar": "https://example.com/avatars/cuong.jpg",
+    "dateOfBirth": "1995-02-20T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Phan Thị Diệu",
+    "email": "phanthidieu@gmail.com",
+    "phone": "0943678901",
+    "avatar": "https://example.com/avatars/dieu.jpg",
+    "dateOfBirth": "1992-08-18T00:00:00.000Z"
+  }
+]
